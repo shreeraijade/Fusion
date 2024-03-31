@@ -1,0 +1,16 @@
+{
+  "name": "fusion",
+  "version": "1.0.0",
+  "description": "combination of insta fb and yt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "insta",
+    "fb",
+    "yt"
+  ],
+  "author": "Shreyas Raijade",
+  "license": "ISC"
+}
